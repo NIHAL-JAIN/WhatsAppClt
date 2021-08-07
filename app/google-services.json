@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953349096575",
+    "project_id": "whatsappclt-dc98d",
+    "storage_bucket": "whatsappclt-dc98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953349096575:android:236ba526f9b7ea9e62eb4a",
+        "android_client_info": {
+          "package_name": "com.nihal.whatsappclt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953349096575-nlg91nuv5007o8gmi55vfiesa31hcen9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPmYQROKa3ruUnqAGbr5Jlun5UKkyV-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953349096575-nlg91nuv5007o8gmi55vfiesa31hcen9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
